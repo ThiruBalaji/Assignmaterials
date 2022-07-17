@@ -1,0 +1,11 @@
+Model Information:
+* title:	t-shirt
+* source:	https://sketchfab.com/3d-models/t-shirt-1ed377fc5d754fe5bef6eb7053c0d5e2
+* author:	nottyairs (https://sketchfab.com/nottyairs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "t-shirt" (https://sketchfab.com/3d-models/t-shirt-1ed377fc5d754fe5bef6eb7053c0d5e2) by nottyairs (https://sketchfab.com/nottyairs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
